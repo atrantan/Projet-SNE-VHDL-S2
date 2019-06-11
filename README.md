@@ -1,6 +1,6 @@
 # Génie Logiciel
 
-Repo pour les rapports d'E&R SNE en S2
+Repo pour les rapports d'E&R SNE VHDL en S2
 
 ## Organisation des dossiers
 
