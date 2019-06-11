@@ -1,0 +1,20 @@
+# Copyright (c) 2019 Antoine Tran Tan
+#
+
+# Ignore everything
+*
+
+# Except certain file extensions
+!*.bdf
+!*.vht
+!*.vhd
+!*.md
+!*.png
+!*.gif
+!*.jpg
+
+# ...even if they are in subdirectories
+!*/
+
+# ...but not in 'build' folder
+/build
