@@ -12,6 +12,7 @@
 !*.png
 !*.gif
 !*.jpg
+!*.csv
 
 # ...even if they are in subdirectories
 !*/
