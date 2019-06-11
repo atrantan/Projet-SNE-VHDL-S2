@@ -1,11 +1,6 @@
-# Génie Logiciel
+# Projet de S2-SNE - Récepteur d'une liaison série  en conception Full Synchrone
 
-Repo pour les rapports d'E&R SNE VHDL en S2
-
-## Organisation des dossiers
-
-* Dossier `include`
-* Dossier `src`
+Repo pour les projets S2-SNE à l'IUT de Cachan
 
 ## Règles à respecter
 
