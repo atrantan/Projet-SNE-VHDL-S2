@@ -36,9 +36,9 @@ Pas d'explications, il faut pratiquer !
 
 Vous devez installer les logiciels qui vous seront utiles pour travailler à
 la maison. Dans l'ordre, installer :
-* Pour installer **Git**, cliquer [ici] (https://www.git-scm.com/download)
-* Pour installer **Visual Studio Code**, cliquer [ici] (https://code.visualstudio.com/download)
-* Pour installer **Quartus et ModelSim**, cliquer [ici] (http://fpgasoftware.intel.com/16.1/?edition=standard&platform=windows&download_manager=direct&product=modelsim_ae#tabs-2)
+* Pour installer **Git**, cliquer [ici](https://www.git-scm.com/download)
+* Pour installer **Visual Studio Code**, cliquer [ici](https://code.visualstudio.com/download)
+* Pour installer **Quartus et ModelSim**, cliquer [ici](http://fpgasoftware.intel.com/16.1/?edition=standard&platform=windows&download_manager=direct&product=modelsim_ae#tabs-2)
 
 Ensuite, installer les extensions sur Visual Studio Code
 * Pour cela, cloner juste votre repo sous Visual Studio Code
